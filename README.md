@@ -2,7 +2,7 @@
  
 This project focuses on developing a deep learning-based dog breed classification system. The main goal is to accurately classify dog breeds using image data. It utilizes several state-of-the-art convolutional neural networks (CNNs), including ResNet50, VGG19, MobileNetV2, and Xception, along with a custom CNN to compare performance.
 
-Key elements of the project include:
+
 
 Data Preparation: Image preprocessing (resizing, normalization, augmentation) and handling class imbalances ensure robust model performance.
 
